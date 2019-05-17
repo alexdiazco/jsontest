@@ -19,7 +19,7 @@
   "categories": [
     {
       "id": "1",
-      "name": "School",
+      "name": "Colegio",
       "iconName": "ios-school-outline",
       "percent": 70,
       "amount": 375
@@ -91,7 +91,7 @@
   "expenses": [
     {
       "idTransaction": "13",
-      "name": "Buy a book",
+      "name": "Compre otro libro",
       "date": "2018-08-13",
       "value": -30
     },
